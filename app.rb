@@ -21,7 +21,7 @@ class App < Sinatra::Base
   end
 
   get "/multiply/:num_1/:num_2" do
-    
+
   end
-  
+
 end
