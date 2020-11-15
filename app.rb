@@ -20,4 +20,8 @@ class App < Sinatra::Base
     "Goodbye, #{@user_name}."
   end
 
+  get "/multiply/:num_1/:num_2" do
+    
+  end
+  
 end
